@@ -1,0 +1,2 @@
+./arma
+qemu-system-i386 -fda img/tpe.img -soundhw pcspk

@@ -1,0 +1,3 @@
+void		_syscall_write(int fd, const void* buffer, size_t count);
+void 		_syscall_read(int fd,const void* buffer, size_t count);
+void		_int_80_hand(int fd, const void* buffer, size_t count);

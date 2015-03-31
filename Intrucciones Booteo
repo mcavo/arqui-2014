@@ -1,0 +1,15 @@
+ASEGURARSE DE QUE ESTA LA CARPETA BIN!!!! O PERDEMOS TODO ?)
+* sudo apt-get install git
+* sudo apt-get install qemu
+* sudo apt-get install nasm
+* sudo apt-get install virtual-guest-dkms
+* en .mtoolsrc (esta en el home) agregar: drive b:file="path de tpe.img" en mi caso es: drive b:file="~/Documentos/arqui-2014/kernel/img/tpe.img"
+* cd kernel (ir a kernel)
+* chmod 777 arma
+* chmod 777 compila
+* chmod 777 run
+* ./run
+
+
+
+
